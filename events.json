@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "id": 127,
+      "title": "Kraft Werk Picnic @ Mile Square Park (potluck)",
+      "date": "2026-06-13",
+      "time": "11:00 AM",
+      "venue": "Mile Square Park",
+      "address": "",
+      "description": "Potluck Picnic! Bring food/drink to share!\nBring your crafts to work on!\n\nWe'll update day of exact park location.\nBring chairs and/or blanket to sit on.\nWe'll be at the park all day crafting and gothing out.",
+      "attendees": 0,
+      "image": "images/kraftWerkPicnic.png",
+      "status": "upcoming",
+      "cancelled": false
+    },
+    {
       "id": 126,
       "title": "Goth Clubbing @ Aráchne Goth Nights",
       "date": "2026-06-18",
