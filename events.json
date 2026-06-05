@@ -1,6 +1,32 @@
 {
   "events": [
     {
+      "id": 126,
+      "title": "Goth Clubbing @ Aráchne Goth Nights",
+      "date": "2026-06-18",
+      "time": "10:00 PM",
+      "venue": "Copper Door",
+      "address": "225 N Broadway, Santa Ana, CA 92701",
+      "description": "Aráchne Goth Nights is on Thursdays.....\nFriday is a holiday!!\n\nLets get together and stomp stomp.\n\nI recommend you park near Frida Cinema",
+      "attendees": 0,
+      "image": "images/aracheJun26.png",
+      "status": "upcoming",
+      "cancelled": false
+    },
+    {
+      "id": 125,
+      "title": "Art Walk - Downtown Santa Ana",
+      "date": "2026-06-07",
+      "time": "7:00 PM",
+      "venue": "Meet at 4th St Market",
+      "address": "201 E 4th St, Santa Ana, CA 92701",
+      "description": "Downtown Santa Ana Art Walk\n\nMeet at 4th St Market at 7PM, come at 6PM if you want preparty or dinner.\n\nThen we do the walk, loop around artist district, and finish the night with drinks/snacks/late dinner.\n\nPark at parking lot right behind 4th St Market.",
+      "attendees": 0,
+      "image": "images/artWalkJun26.png",
+      "status": "upcoming",
+      "cancelled": false
+    },
+    {
       "id": 124,
       "title": "Goth Night - The Chamber @ Bravo Night Club Anaheim",
       "date": "2026-05-24",
@@ -10,7 +36,7 @@
       "description": "Monday the 26th is a Memorial Day holiday...\n\nThat means we RAGE on Sunday night!  Come rage and dance with us.  The Chamber brings darkwave and industrial.  The room next over has cumbia and upstairs is rock en espanol!  Uh..... yeah, were gonna dance in all the rooms duh!",
       "attendees": 10,
       "image": "images/thechamber20260524.png",
-      "status": "upcoming",
+      "status": "past",
       "cancelled": false
     },
     {
@@ -36,7 +62,7 @@
       "description": "🫵 COME TO MAINPLACE MALL IN SANTA ANA\nFRI, MAY 22 6PM\n\nGO TO HOT TOPIC, GET PIERCED, EAT AT FOOD COURT, PLAY ROUND1, WHATEVER HANG OUT\n\nMEET AT FOOD COURT 8PM FOR PHOTOS",
       "attendees": 5,
       "image": "images/WGD_banner.png",
-      "status": "upcoming",
+      "status": "past",
       "cancelled": false
     },
     {
@@ -49,7 +75,7 @@
       "description": "Ghoul's Day Out is a My Chemical Romance fan event located at the church where the music video for Helena was filmed.  There will be lots of vendors, photo ops at the church, live music and cover band, food trucks.\n\nhttps://www.instagram.com/ghoulsdayoutla\n\nIf you want to take photos at the church, you should arrive at around 2PM, because the line takes about an hour.\nWe'll meet at 4PM near the cover band area and check out the vendors until end time at 6PM.",
       "attendees": 4,
       "image": "images/ghoulsDayOut.png",
-      "status": "upcoming",
+      "status": "past",
       "cancelled": false
     },
     {
